@@ -1,1 +1,2 @@
-We are inside Start Text
+We are inside Start Text.
+This text is from Remote Repository.
